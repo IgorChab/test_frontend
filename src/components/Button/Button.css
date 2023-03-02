@@ -1,0 +1,25 @@
+.btn {
+    padding: 5px 10px;
+    width: 30px;
+    text-align: center;
+    color: black;
+    border: 2px solid black;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.dark_btn{
+    color: white;
+    background-color: #000;
+    border: 2px solid white;
+}
+
+.active{
+    background-color: #000;
+    color: #fff;
+}
+
+.dark_active{
+    background-color: #fff;
+    color: #000;
+}

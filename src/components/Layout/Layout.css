@@ -1,0 +1,13 @@
+.layout{
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.dark_layout {
+    background-color: #000;
+    color: #fff;
+}
